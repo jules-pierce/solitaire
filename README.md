@@ -1,7 +1,7 @@
-# solitaire
+# Solitaire
 general rules: https://www.bicyclecards.com/how-to-play/solitaire/
 
-Terminal based solitaire game
+Terminal based solitaire game \n
 How to run code: type java -jar solitaire.jar
 	for face cards, A=1, J=11, Q=12, K=13
 
